@@ -28,4 +28,4 @@ Database: PostgreSQL (NeonDB)
 
 Authentication: JSON Web Tokens (JWT)
 
-File Uploads: Multer (For Local Storage), Amazon S3 (Cloud Storage)
+File Uploads: Multer , Amazon S3 
